@@ -3,5 +3,5 @@
 <tb>1. Marijn Haverbeke. Eloquent JavaScript. 3rd edition
 <hr>
 <b>Courses</b><br>
-1. HTML Academy
+1. HTML Academy <HTML&CSS courses level 1, 2)
 <hr>
