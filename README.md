@@ -4,4 +4,6 @@
 <hr>
 <b>Courses</b><br>
 1. HTML Academy (HTML&CSS courses level 1, 2)
+2. Ivan Petrichenko Basic JS
+3. Ivan Petrichenko Web-Developer 2020
 <hr>
